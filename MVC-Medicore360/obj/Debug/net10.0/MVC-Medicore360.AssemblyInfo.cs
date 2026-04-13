@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVC-Medicore360")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3accdeec437f8efe721449e6969f23285de9ecc4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+729f0c27abf4d7c25314da6afc10477246f81f90")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVC-Medicore360")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVC-Medicore360")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
